@@ -1,0 +1,282 @@
+.totalfont{
+    font-family: "League Spartan", sans-serif;
+}
+body{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 500;
+}
+
+.league-spartan{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+.frase1{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(102, 7, 126);
+    font-weight: 900px;
+    font-size: 24px;
+   
+    max-width: 300px; 
+    margin: 0 ;   
+    padding: 7px;    
+    
+     position: relative; 
+     top: 95px;        
+     left: 130px;       
+}
+
+.parrafo1{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(166, 51, 243);
+    
+    position: relative;
+    top: 60px;
+    left: 130px;
+    max-width: 350px; 
+    margin: 0 ;   
+    padding: 7px; 
+}
+
+.estrellas{
+    font-family: "League Spartan", sans-serif;
+    font-size: 17px;
+    background-color: rgb(244, 226, 246);
+    color:rgb(119, 7, 147);
+
+    position: absolute;
+    top:180px;
+    left: 875px;
+    max-width: 600px; 
+    margin: 0 ;   
+    padding: 15px; 
+    width: 300px;
+}
+
+.estrellas2{
+    font-family: "League Spartan", sans-serif;
+    font-size: 17px;
+    background-color: rgb(244, 226, 246);
+    color:rgb(119, 7, 147);
+    
+    position: absolute;
+    top:250px;
+    left: 950px;
+    max-width: 600px; 
+    margin: 0 ;   
+    padding: 15px; 
+    width: 300px;
+
+}
+
+.estrellas3{
+    font-family: "League Spartan", sans-serif;
+    font-size: 17px;
+    background-color: rgb(244, 226, 246);
+    color:rgb(119, 7, 147);
+   
+    position: absolute;
+    top:320px;
+    left: 1025px;
+    max-width: 600px; 
+    width: 300px;
+    margin: 0 ;   
+    padding: 15px; 
+}
+
+.cuadro1{
+    background-color: rgb(96, 4, 106);
+
+    
+    position: absolute;
+    top:425px;
+    left: 145px;
+    max-width: 600px; 
+    margin: 0 ;   
+    padding: 20px;
+    width: 300px;
+    height: 180px; 
+}
+
+.coltonfoto{
+  height: 47px;
+  width: 47px;
+  position: relative;
+  border-radius: 50%;
+  
+}
+
+.coltonnombre{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    position: relative;
+    top: -44px;
+    left: 70px;
+    width: 150px;
+    height: 25px;
+    max-width: 450px; 
+    margin: 0 ;   
+    padding: 1px;
+    
+}
+
+.VB{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(172, 25, 183);
+    font-size: 15px;
+    position: relative;
+    top: -44px;
+    left: 70px;
+    width: 150px;
+    max-width: 450px; 
+    margin: 0 ;   
+    padding: 1px;
+    
+}
+
+.descolton{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(234, 225, 234);
+    font-size: 15px;
+    position: relative;
+    top: -35px;
+    left: 25px;
+    width: 250px;
+    max-width: 450px; 
+    margin: 0 ;   
+    padding: 1px;
+    
+}
+
+.cuadro2{
+    background-color: rgb(96, 4, 106);
+
+   
+    position: absolute;
+    top: 450px;
+    left: 550px;
+    max-width: 600px; 
+    margin: 0 ;   
+    padding: 20px;
+    width: 300px;
+    height: 180px; 
+}
+
+.irenefoto{
+  height: 47px;
+  width: 47px;
+  position: relative;
+  border-radius: 50%;
+  
+}
+
+.irenenombre{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    position: relative;
+    top: -44px;
+    left: 70px;
+    width: 150px;
+    height: 25px;
+    max-width: 450px; 
+    margin: 0 ;   
+    padding: 1px;
+    
+}
+
+.VB2{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(172, 25, 183);
+    font-size: 15px;
+    position: relative;
+    top: -44px;
+    left: 70px;
+    width: 150px;
+    max-width: 450px; 
+    margin: 0 ;   
+    padding: 1px;
+    
+}
+
+.desirene{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(234, 225, 234);
+    font-size: 15px;
+    position: relative;
+    top: -35px;
+    left: 25px;
+    width: 250px;
+    max-width: 450px; 
+    margin: 0 ;   
+    padding: 1px;
+    
+}
+
+.cuadro3{
+    background-color: rgb(96, 4, 106);
+
+    
+    position: absolute;
+    top: 485px;
+    left: 950px;
+    max-width: 600px; 
+    margin: 0 ;   
+    padding: 20px;
+    width: 300px;
+    height: 180px; 
+}
+
+.annefoto{
+  height: 47px;
+  width: 47px;
+  position: relative;
+  border-radius: 50%;
+ 
+}
+
+.annenombre{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    position: relative;
+    top: -44px;
+    left: 70px;
+    width: 150px;
+    height: 25px;
+    max-width: 450px; 
+    margin: 0 ;   
+    padding: 1px;
+    
+}
+
+.VB3{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(172, 25, 183);
+    font-size: 15px;
+    position: relative;
+    top: -44px;
+    left: 70px;
+    width: 150px;
+    max-width: 450px; 
+    margin: 0 ;   
+    padding: 1px;
+    
+}
+
+.desanne{
+    font-family: "League Spartan", sans-serif;
+    color: rgb(234, 225, 234);
+    font-size: 15px;
+    position: relative;
+    top: -35px;
+    left: 25px;
+    width: 250px;
+    max-width: 450px; 
+    margin: 0 ;   
+    padding: 1px;
+   
+}
+
